@@ -18,7 +18,7 @@ Example
 
 ## Start JSON Server
 
-json-server --watch db/db.json
+json-server --watch db.json
 
 Now if you go to http://localhost:3000/posts/1,
 
