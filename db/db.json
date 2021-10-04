@@ -1,0 +1,56 @@
+{
+  "posts": [
+    {
+      "id": 1,
+      "title": "reto-rimac"
+    }
+  ],
+  "profile": {
+    "name": "typicode"
+  },
+  "cotiza": [
+    {
+      "id": 1,
+      "tipeDoc": 1,
+      "numberDoc": "75875253",
+      "phone": 965620633,
+      "plate": "GCJRFJ5632"
+    },
+    {
+      "id": 2,
+      "tipeDoc": 1,
+      "numberDoc": "53937531",
+      "phone": 915551234,
+      "plate": "ferferf2424"
+    }
+  ],
+  "vehicleYears": {
+    "codRes": "00",
+    "response": [2021, 2020, 2019, 2018, 2017, 2016]
+  },
+  "vehicleBrands": {
+    "codRes": "00",
+    "response": [
+      {
+        "id": 1,
+        "name": "Ford"
+      },
+      {
+        "id": 2,
+        "name": "Wolkswagen"
+      },
+      {
+        "id": 3,
+        "name": "Audi"
+      },
+      {
+        "id": 4,
+        "name": "Renault"
+      },
+      {
+        "id": 5,
+        "name": "BMW"
+      }
+    ]
+  }
+}
