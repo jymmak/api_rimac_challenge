@@ -1,4 +1,13 @@
 {
+  "posts": [
+    {
+      "id": 1,
+      "title": "reto-rimac"
+    }
+  ],
+  "profile": {
+    "name": "typicode"
+  },
   "cotiza": [
     {
       "id": 1,
@@ -22,23 +31,29 @@
       "email": "joel.sanchez@gmail.com "
     }
   ],
-  "vehicleYears": [2021, 2020, 2019, 2018, 2017, 2016, 2015],
-  "vehicleBrands": [
-    {
-      "id": 1,
-      "name": "Wolkswagen Golf"
-    },
-    {
-      "id": 2,
-      "name": "Ford"
-    },
-    {
-      "id": 3,
-      "name": "Audi"
-    },
-    {
-      "id": 4,
-      "name": "Renault"
-    }
-  ]
+  "vehicleYears": {
+    "codRes": "00",
+    "response": [2021, 2020, 2019, 2018, 2017, 2016]
+  },
+  "vehicleBrands": {
+    "codRes": "00",
+    "response": [
+      {
+        "id": 1,
+        "name": "Wolkswagen Golf"
+      },
+      {
+        "id": 2,
+        "name": "Ford"
+      },
+      {
+        "id": 3,
+        "name": "Audi"
+      },
+      {
+        "id": 4,
+        "name": "Renault"
+      }
+    ]
+  }
 }
