@@ -19,32 +19,14 @@
     {
       "id": 1,
       "name": "Juan",
-      "email": "joel.sanchez@gmail.com "
+      "email": "juan.sanchez@gmail.com "
     }
   ],
-  "vehicleYears": {
-    "codRes": "00",
-    "response": [2021, 2020, 2019, 2018, 2017, 2016]
-  },
-  "vehicleBrands": {
-    "codRes": "00",
-    "response": [
-      {
-        "id": 1,
-        "name": "Wolkswagen Golf"
-      },
-      {
-        "id": 2,
-        "name": "Ford"
-      },
-      {
-        "id": 3,
-        "name": "Audi"
-      },
-      {
-        "id": 4,
-        "name": "Renault"
-      }
-    ]
-  }
+  "vehicle": [
+    {
+      "id": 1,
+      "brand": "Wolkswagen Golf",
+      "year": "2019"
+    }
+  ]
 }
