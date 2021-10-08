@@ -1,13 +1,4 @@
 {
-  "posts": [
-    {
-      "id": 1,
-      "title": "reto-rimac"
-    }
-  ],
-  "profile": {
-    "name": "typicode"
-  },
   "cotiza": [
     {
       "id": 1,
